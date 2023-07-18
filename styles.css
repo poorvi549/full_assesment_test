@@ -3,12 +3,12 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    background-color: #f9f9f4;
-    color: white;
+    background-color: #b4b410;
+    color: rgb(242, 44, 44);
 }
 
 header {
-    background-color: #fffffb;
+    background-color: #0f0f03;
 }
 .navBar {
     display: flex;
@@ -21,36 +21,29 @@ header {
 .nav-link{
     align-items: center;
     padding-top: 15%;
-    color: rgb(253, 249, 249);
+    color: rgb(152, 6, 6);
 }
 
 .logo {
-    /*Addstylesforthelogo*/
+    
     height: 10%;
    
 }
 
 nav {
-    /* Add styles for the navigation bar */
+    
 }
 
 main {
-    padding: 20px;
+    padding: 30px;
 }
 
 .person-details {
-    /* Add styles for the person details section */
+   
     display: flex;
     flex-direction: column;
 }
 
-.person {
-    /* Add styles for each person card */
-}
-
-.picture-form {
-    /* Add styles for the picture form section */
-}
 
 footer {
     background-color: rgb(51, 0, 202);
